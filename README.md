@@ -1,6 +1,8 @@
 # Tic-Tac-Toe-Web
 Tic-Tac-Toe game made using HTML, CSS and JavaScript
 
+PLAY THE GAME HERE 👉 https://tictactoebg.netlify.app/
+
 Desktop screenshots:
 <br>
 <img src="https://i.ibb.co/jV0Y6DD/image.png"><br>
